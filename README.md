@@ -1,0 +1,3 @@
+# Pequeno projeto 
+
+Calculadora Simples
